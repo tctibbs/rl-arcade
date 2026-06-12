@@ -21,16 +21,6 @@ get added here with links.
   <img src="https://raw.githubusercontent.com/tctibbs/matchbox-rl/main/assets/menace_tictactoe.png" alt="Matchbox tic-tac-toe" height="280">
 </p>
 
-## Common ground
-
-The projects share a few habits rather than a framework:
-
-- Results come from fixed evaluation protocols over multiple seeds, with
-  mean and spread reported, never a single run.
-- Configuration is typed and hashed, so any result traces back to the exact
-  settings and commit that produced it.
-- Training runs headless; rendering and video are separate concerns.
-
 ## License
 
 MIT.

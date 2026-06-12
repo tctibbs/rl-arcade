@@ -16,7 +16,7 @@ In-progress projects are private until they reach a presentable state, then
 get added here with links.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tctibbs/flappy-bird-rl/main/docs/media/demo.gif" alt="Flappy Bird agent" height="280">
+  <img src="https://raw.githubusercontent.com/tctibbs/flappy-bird-rl/main/docs/media/demo.gif?v=2" alt="Flappy Bird agent" height="280">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tctibbs/matchbox-rl/main/assets/menace_tictactoe.png" alt="Matchbox tic-tac-toe" height="280">
 </p>

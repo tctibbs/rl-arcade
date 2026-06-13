@@ -9,6 +9,7 @@ repository with its own agent, training pipeline, and results.
 |---|---|---|---|
 | [flappy-bird-rl](https://github.com/tctibbs/flappy-bird-rl) | Flappy Bird | DQN (Stable-Baselines3) | Done |
 | [matchbox-rl](https://github.com/tctibbs/matchbox-rl) | Tic-tac-toe and other discrete games | MENACE-style tabular learning | Done |
+| [neural-noodle](https://github.com/tctibbs/neural-noodle) | Snake | PPO, scored on efficiency vs a planner oracle | Done |
 | slay-the-spire-gym + slay-the-spire-rl | Slay the Spire | Maskable PPO | In progress |
 | donkey-kong-rl | Donkey Kong | TBD | In progress |
 
@@ -19,6 +20,10 @@ get added here with links.
   <img src="https://raw.githubusercontent.com/tctibbs/flappy-bird-rl/main/docs/media/demo.gif?v=2" alt="Flappy Bird agent" height="280">
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tctibbs/matchbox-rl/main/assets/menace_tictactoe.png" alt="Matchbox tic-tac-toe" height="280">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tctibbs/neural-noodle/develop/docs/demo.gif?v=1" alt="Neural Noodle Snake agent across four board sizes" width="640">
 </p>
 
 ## License

@@ -27,7 +27,7 @@ Reusable building blocks behind the games above.
 <p align="center">
   <img src="https://raw.githubusercontent.com/tctibbs/flappy-bird-rl/main/docs/media/demo.gif?v=2" alt="Flappy Bird agent" height="280">
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tctibbs/matchbox-rl/main/assets/menace_tictactoe.png" alt="Matchbox tic-tac-toe" height="280">
+  <img src="https://raw.githubusercontent.com/tctibbs/tic-tac-brainiac/main/assets/CLI_example.gif?v=1" alt="Tic Tac Brainiac agent" height="280">
 </p>
 
 <p align="center">

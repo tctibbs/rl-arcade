@@ -11,7 +11,7 @@ repository with its own agent, training pipeline, and results.
 | [tic-tac-brainiac](https://github.com/tctibbs/tic-tac-brainiac) | Tic-tac-toe | MENACE-style tabular learning | Done |
 | [neural-noodle](https://github.com/tctibbs/neural-noodle) | Snake | PPO, scored on efficiency vs a planner oracle | Done |
 | slay-the-spire-gym + slay-the-spire-rl | Slay the Spire | Maskable PPO | In progress |
-| donkey-kong-rl | Donkey Kong | TBD | In progress |
+| [donkey-kong-rl](https://github.com/tctibbs/donkey-kong-rl) | Donkey Kong | PPO + self-imitation learning | Done |
 
 In-progress projects are private until they reach a presentable state, then
 get added here with links.
@@ -32,6 +32,10 @@ Reusable building blocks behind the games above.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tctibbs/neural-noodle/develop/docs/demo.gif?v=1" alt="Neural Noodle Snake agent across four board sizes" width="640">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tctibbs/donkey-kong-rl/main/assets/donkey_kong_before_after.gif" alt="Donkey Kong agent: left a plain PPO agent farms the bottom of the first screen, right the same network trained with self-imitation climbs, clears, and loops the game" width="640">
 </p>
 
 ## License

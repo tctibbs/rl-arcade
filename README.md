@@ -1,7 +1,6 @@
 # RL Arcade
 
-An index of my reinforcement learning projects. Each game lives in its own
-repository with its own agent, training pipeline, and results.
+An index of my reinforcement learning projects.
 
 ## Showcase
 

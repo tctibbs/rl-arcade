@@ -12,6 +12,7 @@ repository with its own agent, training pipeline, and results.
 | [neural-noodle](https://github.com/tctibbs/neural-noodle) | Snake | PPO, scored on efficiency vs a planner oracle | Done |
 | slay-the-spire-gym + slay-the-spire-rl | Slay the Spire | Maskable PPO | In progress |
 | [donkey-kong-rl](https://github.com/tctibbs/donkey-kong-rl) | Donkey Kong | PPO + self-imitation learning | Done |
+| [edukit-furuta-pendulum-rl](https://github.com/tctibbs/edukit-furuta-pendulum-rl) | Furuta pendulum, on real hardware | PPO in NVIDIA Isaac Lab, run on the board's microcontroller | Done |
 
 In-progress projects are private until they reach a presentable state, then
 get added here with links.
@@ -36,6 +37,14 @@ Reusable building blocks behind the games above.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tctibbs/donkey-kong-rl/main/assets/donkey_kong_before_after.gif" alt="Donkey Kong agent: left a plain PPO agent farms the bottom of the first screen, right the same network trained with self-imitation climbs, clears, and loops the game" width="640">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tctibbs/edukit-furuta-pendulum-rl/main/docs/experiments/07-showcase/figures/swing_up.webp" alt="Furuta pendulum: the learned policy swinging up from rest and balancing" height="280">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tctibbs/edukit-furuta-pendulum-rl/main/docs/experiments/07-showcase/figures/jethro_swing_up.webp" alt="Furuta pendulum: Jethro, a gentler fine-tune, swinging up and balancing" height="280">
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/tctibbs/edukit-furuta-pendulum-rl/main/docs/experiments/07-showcase/figures/cat_boxing.webp" alt="Furuta pendulum: a black cat boxing the rotor arm" height="280">
 </p>
 
 ## License
